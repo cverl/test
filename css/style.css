@@ -1,0 +1,13 @@
+body {
+ margin-top: 60px;
+ font-family: Helvetica;
+  
+  }
+
+#img{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:10px solid white;
+  background:white
+}
